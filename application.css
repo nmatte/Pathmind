@@ -1,0 +1,14 @@
+body {
+  background-color: #ccc;
+}
+
+canvas {
+  background: white;
+  margin: 50px auto;
+  display: block;
+}
+
+article {
+  margin: auto;
+  height: 100%;
+}
